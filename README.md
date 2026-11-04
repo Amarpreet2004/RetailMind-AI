@@ -64,7 +64,7 @@ RetailMind-AI/
 │   └── Telco-Customer-Churn.csv
 │
 ├── notebooks/
-│   └── RetailMind_Churn_Days_1_to_4.ipynb
+│   └── test.ipynb
 │
 ├── models/
 │   ├── churn_day1_baseline.joblib
